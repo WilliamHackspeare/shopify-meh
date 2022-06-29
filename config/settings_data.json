@@ -193,7 +193,7 @@
     "blocks": {
       "7042447956322642341": {
         "type": "shopify:\/\/apps\/currency-converter-bear\/blocks\/widget\/2e0d37a8-470e-4e9a-9cce-eec4d085d0eb",
-        "disabled": false,
+        "disabled": true,
         "settings": {
         }
       }
