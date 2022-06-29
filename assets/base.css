@@ -2199,7 +2199,7 @@ input[type='checkbox'] {
 
 .shopify-section-header-sticky {
   position: sticky;
-  top: 0;
+  top: 10;
 }
 
 .shopify-section-header-hidden {
