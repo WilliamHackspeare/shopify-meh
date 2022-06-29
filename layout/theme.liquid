@@ -223,10 +223,9 @@
       {%- render 'cart-drawer' -%}
     {%- endif -%}
 
-    <div {% if section.settings.enable_sticky_header %}style="position:fixed;"{% endif %}>
+    
     {% section 'header' %}
     {% section 'announcement-bar' %}
-    </div>
     <main id="MainContent" class="content-for-layout focus-none" role="main" tabindex="-1">
       {{ content_for_layout }}
     </main>
