@@ -191,9 +191,9 @@
 
     ],
     "blocks": {
-      "7042447956322642341": {
-        "type": "shopify:\/\/apps\/currency-converter-bear\/blocks\/widget\/2e0d37a8-470e-4e9a-9cce-eec4d085d0eb",
-        "disabled": true,
+      "3294164036280357830": {
+        "type": "shopify:\/\/apps\/mlv-auto-currency-switcher\/blocks\/mlveda-currencies-head\/92ab730f-097e-4571-b27c-3f449e098ca3",
+        "disabled": false,
         "settings": {
         }
       }
